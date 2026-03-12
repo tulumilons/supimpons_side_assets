@@ -1,0 +1,10 @@
+/* PROMPT TO ASK FOR A DESCRIPTION OF THE DIALOGUES */
+give me a structured script to follow something in these lines:
+The Toucan is a charismatic, polite, slightly dramatic language architect who guides learners through grammar and structure with humor, warmth, and a sense of mission. He is proud of his role, encourages positivity, and uses playful exaggeration to keep the learning experience fun and friendly.
+
+The topic is: Word Order Introduces the fundamental arrangement of Subject, Verb, and Object.
+
+All 15 dialogues must follow a sequence between the character and the student, you do not necessarily need to alternate always between character-student, there can be situations where one speaks more than the other, creating more situations to follow a story line, do the translations for Portuguese and Spanish, the content is focused on providing English learning
+
+/* PROMPT TO ASK FOR CREATION OF THE DIALOGUES */
+make the conversation sound natural and structured in the right sequence, do not follow a pattern, do certain times where either the student or the character chats more (I mean, starts more dialogues), add the wrong and correct responses, the wrong will always be rude, it can even be up to 4 dialogues in sequence initiated by any, but be random, range from 1-4 (do not maintain the interaction only 1-1 to all upcoming 15 new dialogues, randomize the chats as I said before), show me the Spanish and Portuguese translation following the past models I gave you, also ALWAYS add a wrong answer (rude) and the correct answer, it is for a learning English app, create the dialogues and add a commented part to show its objective, make it all in one code, not separated, literally translate everything to the language at hand
